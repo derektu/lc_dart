@@ -2,7 +2,7 @@ import 'package:lc_dart/0000.dart';
 import 'package:test/test.dart';
 
 void main() {
-  group('Test 0001', () {
+  group('Test 0000', () {
     final solution = Solution();
 
     setUp(() {
